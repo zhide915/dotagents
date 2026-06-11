@@ -3,5 +3,11 @@
     "commit": "",
     "pr": ""
   },
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch"
+    ]
+  },
   "theme": "dark"
 }
