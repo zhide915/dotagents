@@ -9,5 +9,9 @@
       "WebFetch"
     ]
   },
-  "theme": "dark"
+  "tui": "fullscreen",
+  "autoMemoryEnabled": false,
+  "theme": "dark",
+  "inputNeededNotifEnabled": true,
+  "agentPushNotifEnabled": true
 }
