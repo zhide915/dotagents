@@ -1,5 +1,5 @@
 ---
-name: authoring-skills
+name: crafting-skills
 description: Evaluates, writes, and improves agent skills (SKILL.md packages).
   Use when the user asks to write a new skill, evaluate or review an existing
   skill, fix a skill that triggers wrongly or too often, or improve or extend an
@@ -8,7 +8,7 @@ description: Evaluates, writes, and improves agent skills (SKILL.md packages).
   package.
 ---
 
-# Authoring Skills
+# Crafting Skills
 
 Evaluate, write, or improve agent skills (SKILL.md packages). All three
 modes apply the same rubric.

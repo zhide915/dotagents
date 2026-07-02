@@ -29,7 +29,7 @@ Check:
 - Key use case first — hosts truncate long listing text.
 - A "not for X" clause when a nearby skill or common task could collide.
 - The `name` itself carries signal (gerund form preferred: `processing-pdfs`,
-  `authoring-skills`) — vague names (`helper`, `utils`, `tools`) FAIL.
+  `crafting-skills`) — vague names (`helper`, `utils`, `tools`) FAIL.
 
 Weak (FAIL):
 ```yaml

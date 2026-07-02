@@ -1,5 +1,5 @@
 ---
-name: authoring-docs
+name: writing-docs
 description: Evaluates, writes, and improves documentation — READMEs,
   tutorials, how-to guides, reference pages, explanations, rules/guidelines
   files, CLAUDE.md/AGENTS.md, and docstrings/comments. Classifies the doc by
@@ -9,7 +9,7 @@ description: Evaluates, writes, and improves documentation — READMEs,
   code whose comments are an incidental byproduct of writing it.
 ---
 
-# Authoring Docs
+# Writing Docs
 
 Evaluate, write, or improve documentation. Every mode classifies the doc first
 (Step 0), then applies the shared rubric plus the type's own criteria.

@@ -1,16 +1,19 @@
 ---
-name: grilling-plans
-description: Attacks a plan or design to find where it breaks before it ships
-  — finds contradictions, points out what could fail, and forces a choice when
-  two goals clash, then writes the decisions down. Use when the user says "grill
-  me", "stress-test this plan", "poke holes in this", "red-team my design", or
-  wants a plan challenged before building. Not for friendly co-design or normal
-  design help — this one is hard on the plan on purpose.
+name: grilling
+description: Attacks a plan, design, proposal, brainstorm, or analysis to find
+  where it breaks before it ships — finds contradictions, points out what could
+  fail, and forces a choice when two goals clash, then writes the decisions
+  down. Use when the user says "grill me", "grill this", "stress-test this",
+  "poke holes in this", "red-team this", or wants a plan, design, architecture,
+  idea, or analysis challenged before committing to it. Not for friendly
+  co-design, open brainstorming, or normal design help — this one is hard on
+  the idea on purpose.
 ---
 
-# Grilling Plans
+# Grilling
 
-Test a plan by trying to break it before it gets built. A normal design chat
+Test a plan — or any idea: a design, proposal, brainstorm, or analysis — by
+trying to break it before it gets built. A normal design chat
 helps *build* the plan; this one looks for where it *fails*. Be hard on the
 plan, never on the person.
 
