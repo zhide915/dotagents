@@ -1,0 +1,15 @@
+{
+  "name": "zhide915",
+  "description": "zhide915's agent plugins",
+  "owner": {
+    "name": "zhide915",
+    "email": "zhide915@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "zee-kit",
+      "source": "./plugins/zee-kit",
+      "description": "From idea to delivery"
+    }
+  ]
+}

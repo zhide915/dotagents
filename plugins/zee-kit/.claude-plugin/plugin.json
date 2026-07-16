@@ -1,0 +1,11 @@
+{
+  "name": "zee-kit",
+  "description": "From idea to delivery",
+  "author": {
+    "name": "zhide915",
+    "email": "zhide915@gmail.com"
+  },
+  "homepage": "https://github.com/zhide915/dotagents",
+  "repository": "https://github.com/zhide915/dotagents",
+  "keywords": ["development", "skills", "workflow"]
+}
